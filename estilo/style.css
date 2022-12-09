@@ -541,6 +541,6 @@ footer a{
         margin-bottom: 10px;
     }
     #contact .container .contact-right textarea{
-        width: 50%;
+        width: 100%;
     }
 }
