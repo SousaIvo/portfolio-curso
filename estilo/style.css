@@ -530,4 +530,17 @@ footer a{
         width: 60%;
         height: 60%;
     }
+    #port .container .card p{
+        width: 300px;
+    }
+    #contact .container .linha{
+        width: 250px;
+        height: 3px;
+        background: #fff;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #contact .container .contact-right textarea{
+        width: 50%;
+    }
 }
